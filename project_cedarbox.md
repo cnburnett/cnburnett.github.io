@@ -10,7 +10,7 @@ You can find out more about Cedar features at [Mighty Oaks](https://mightyoaks.c
 
 ### History
 
-Coding Cedar started in 2007 when Patrick Hayes and I built a consultation tracking tool built on top of Drupal CMS (Verion 5 and then quickly, 6). At the time it was called the 'Community Information Systems' (CIS). The first users were First Nations near Prince Rupert BC and in the BC Northeast. By 2018, the system had gone through ~8 versions and 3 platforms and Cedar was in use in over a dozen British Columbia Nations. 
+Coding Cedar started in 2007 when Patrick Hayes and I built a consultation tracking tool built on top of Drupal CMS (Verion 5 and then quickly, 6). At the time it was called the 'Community Information Systems' (CIS). The first users were 2 First Nations near Prince Rupert BC and a Nation in the BC Northeast. By 2018, the system had gone through ~8 versions and 3 platforms, and was in use in over a dozen British Columbia Nations stewardship offices.
 
 ### Features
 

@@ -1,3 +1,5 @@
+<img src="images/prj_cedarbox_why?raw=true"/>
+
 ## Cedar Box - First Nations Stewardship Tools (2007-2018)
 
 **Project description:** Cedar Box is Python/GeoDjango application for managing consultation, heritage, fieldwork and GIS data – all to support First Nations cultural revitalization and economic development.

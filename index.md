@@ -14,9 +14,10 @@ Code: Microsoft Dynamics 365, custom code.<br/>
 [Cedar Box 2007-2018](/project_cedarbox)<br/>
 A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. Now maintained by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>
 Code: GeoDjango, Python, Postgres<br/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prj_cedarbox_why?raw=true"/>
 
 ---
+
 [Integrated Range Information System 2015-2017](/pdf/sample_presentation.pdf)<br/>
 A secure map-enabled portal for exploring and maintaining a rich range management knowledge base for BC Provincial government staff. The resulting community of practice site, has powerful browse and search capabilities covering the following topics: range science and technology, range administration, range legislation, range policy and range procedures. <br/>
 Code: Drupal, PHP, Postgres<br/>
@@ -27,20 +28,16 @@ Code: Drupal, PHP, Postgres<br/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Peace Forage Tool 2014-2015](http://example.com/)<br/>
+[Peace Forage Tool 2014-2015](http://peaceforagetool.ca/)<br/>
 A web-based decision support tool to help forage producers and re-vegetation specialists select appropriate forage species for their seeding projects. The “Peace Forage Seeding Tool – An interactive forage seeding database for the Peace Region” is up and running. TheTool contains information on 47 different agronomic and native grass and legume species. The Tool’s database is based on the excellent 282 page BC Rangeland Seeding Manual by Allen Dobb and Sandra Burton which was published last year by the Ministry of Agriculture.<br/>
 Code: Drupal, PHP, MySQL<br/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Peace Forage Tool](http://example.com/)<br/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prj_peaceforagetool_calc_screen?raw=true"/>
 
 ---
 
 ### GIS Mapping & Landscape Ecology
 
-- [Cumulative Openings and Retention Analysis for BC Forest Practices Board (2008)](/project_cumm_oppenings)
+- [Cumulative Openings and Retention Analysis for BC Forest Practices Board (2008)](/project_cumm_openings)
 - [Xeni Gwetin](http://example.com/)
 - [Dzawadaineuk Land & Marine Use Plan](http://example.com/)
 

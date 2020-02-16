@@ -1,4 +1,4 @@
-<img src="images/prj_cedarbox_why?raw=true"/>
+<img src="images/prj_cedarbox_why.png?raw=true"/>
 
 ## Cedar Box - First Nations Stewardship Tools (2007-2018)
 

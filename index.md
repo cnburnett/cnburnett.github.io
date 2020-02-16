@@ -45,10 +45,10 @@ Code: Drupal, PHP, MySQL<br/>
 
 ### Teaching
 
-- [UVic GEOG 399 - Community Mapping I](http://example.com/)
-- [UVic GEOG 399 - Community Mapping II](http://example.com/)
-- [UVic GEOG 399 - Indigenous Geographies](http://example.com/)
-- [SELES Spatio Temportal Modelling](http://example.com/)
+- [University of Victoria GEOG 391 - Community Mapping (2016)](/course_comm_map)
+- [University of Victoria GEOG 391 - Community Mapping (2010)](/course_comm_map)
+- [University of Victoria GEOG 399 - Indigenous Geographies](http://example.com/)
+- [SELES Spatio-Temportal Modelling](http://example.com/)
 
 ---
 
@@ -70,7 +70,7 @@ Code: Drupal, PHP, MySQL<br/>
 - Leckie, D.G., Gougeon, F.A, Tinis, S., Nelson, T., Burnett, C.N., and Paradine, D. (2005) Automated tree recognition in old growth conifer stands with high resolution digital imagery. Remote Sensing of Environment 94: 311-326.
 
 #### Community Planning
-- Burnett, C. & M. Lydon (2007) Socio-Economic Analysis and Cartography: A Plan for PLAY Victoria, 23 pp.
+- Burnett, C. & M. Lydon (2007) Socio-Economic Analysis and Cartography: A Plan for PLAY Victoria, 23 p.
 - Burnett, C. & M. Lydon (2005) Port Renfrew Community Visions Report & Green Map, for the Common Ground Mapping Project and the Queen Alexandra Foundation for Children, Victoria, 22p.
 - Burnett, C. & M. Lydon (2005) Review of National, Regional and Municipal-scale Quality of Life Indicators, powerpoint presentation and summary report for United Way Of Greater Victoria.
 

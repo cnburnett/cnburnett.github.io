@@ -11,8 +11,8 @@ Code: Microsoft Dynamics 365, custom code.<br/>
 
 ---
 
-[Cedar Box](/sample_page)<br/>
-A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development.<br/>
+[Cedar Box](https://www.mightyoaks.com/software-solutions/cedar-box/)<br/>
+A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. Now maintained by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>
 Code: GeoDjango, Python, Postgres<br/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

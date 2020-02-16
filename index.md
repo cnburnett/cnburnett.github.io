@@ -5,7 +5,7 @@
 ### Web Applications
 
 [Community Energy & Emissions Database 2019-2020](/sample_page)<br/>
-Part CRM, part Grant management Tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
+Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
 Code: Microsoft Dynamics 365, custom code.<br/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -28,10 +28,10 @@ Code: Drupal, PHP, Postgres<br/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Peace Forage Tool 2014-2015](http://peaceforagetool.ca/)<br/>
+[Peace Forage Tool 2014](http://peaceforagetool.ca/)<br/>
 A web-based decision support tool to help forage producers and re-vegetation specialists select appropriate forage species for their seeding projects. The “Peace Forage Seeding Tool – An interactive forage seeding database for the Peace Region” is up and running. TheTool contains information on 47 different agronomic and native grass and legume species. The Tool’s database is based on the excellent 282 page BC Rangeland Seeding Manual by Allen Dobb and Sandra Burton which was published last year by the Ministry of Agriculture.<br/>
 Code: Drupal, PHP, MySQL<br/>
-<img src="images/prj_peaceforagetool_calc_screen?raw=true"/>
+<img src="images/prj_peaceforagetool_calc_screen.jpg?raw=true"/>
 
 ---
 

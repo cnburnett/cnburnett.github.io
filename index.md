@@ -17,6 +17,12 @@ A secure integrated web-based application for (1) promoting Stewardship Office t
 **Code:** GeoDjango, Python, Postgres<br/>
 
 ---
+[Manitoba Burn App 2017](/project_burn_app)<br/>
+Andy Nadler of [Peak HydroMet Solutions](http://www.peakhydromet.ca/) contracted me to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
+**Clients:** Peak HydroMet Solutions; Government of Manitoba<br/>
+**Code:** Python, Postgres<br/>
+
+---
 
 [Integrated Range Information System 2015-2017](/project_iris)<br/>
 A secure map-enabled portal for exploring and maintaining a rich range management knowledge base for BC Provincial government staff. The resulting community of practice site, has powerful browse and search capabilities covering the following topics: range science and technology, range administration, range legislation, range policy and range procedures. <br/>
@@ -24,24 +30,35 @@ A secure map-enabled portal for exploring and maintaining a rich range managemen
 **Code:** Drupal, PHP, Postgres<br/>
 
 ---
-[Manitoba Burn App 2017](/project_burn_app)<br/>
-Andy Nadler of [Peak HydroMet Solutions](http://www.peakhydromet.ca/) contracted me to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
-**Clients:** Peak HydroMet Solutions; Government of Manitoba<br/>
-**Code:** Python, Postgres<br/>
-
----
 [Peace Forage Tool 2014](http://peaceforagetool.ca/)<br/>
 A web-based decision support tool to help forage producers and re-vegetation specialists select appropriate forage species for their seeding projects. The “Peace Forage Seeding Tool – An interactive forage seeding database for the Peace Region” is up and running. TheTool contains information on 47 different agronomic and native grass and legume species. The Tool’s database is based on the excellent 282 page BC Rangeland Seeding Manual by Allen Dobb and Sandra Burton which was published last year by the Ministry of Agriculture.<br/>
 **Clients:** [Peace River Forage Association](http://www.peaceforage.bc.ca/)<br/>
 **Code:** Drupal, PHP, MySQL<br/>
 
+#### Other Web Application Builds
+
+- Health Spaces 'Community of Practice' portal for BC Provincial Health Services Agency
+- New Relationship Trust Grants Map
+- First Peoples’ Culture Council Interactive Language Map
+- First Peoples’ Culture Council: Language Survey Tool to Support Granting
+- First Peoples’ Culture Council BC Places Audio Map App (Android App)
+- UVIC CORAL Laboratory Touch Tables and Video Wall
+- Union of BC Indian Chiefs (UBCIC) Specific Claims Online Course
+
 ---
 
-### GIS Mapping & Landscape Ecology
+### GIS, Cartography, Landscape Ecology
 
+- Cartography and Climate Impacts Writing: Maps and statistics for Climate Adaptation Report for Agricultural Producers
 - [Cumulative Openings and Retention Analysis for BC Forest Practices Board (2008)](/project_cumm_openings)
 - [Xeni Gwetin](http://example.com/)
+- Community Mapping: Highlands Community Tourism Wall Map
+- Community Mapping: University of Victoria Community Poster Map & Online Map (Drupal)
+- Community Mapping: Squamish Seniors Community Poster Map
+- First Nations Fisheries Council Regions Drafting
 - [Dzawada̱ʼenux̱w First Nation Land & Marine Use Plan](http://example.com/)
+- Community Mapping: VicWest Community Visions Poster Map
+- Community Mapping: Port Renfrew Community Visions Map & Report
 
 ---
 

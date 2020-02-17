@@ -6,7 +6,7 @@
 
 [Community Energy & Emissions Database 2019-2020](/project_ceed)<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
-Clients: BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation
+Clients: BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation<br/>
 Code: Microsoft Dynamics 365, custom code.<br/>
 
 ---
@@ -20,19 +20,19 @@ Code: GeoDjango, Python, Postgres<br/>
 
 [Integrated Range Information System 2015-2017](/project_iris)<br/>
 A secure map-enabled portal for exploring and maintaining a rich range management knowledge base for BC Provincial government staff. The resulting community of practice site, has powerful browse and search capabilities covering the following topics: range science and technology, range administration, range legislation, range policy and range procedures. <br/>
-Clients: Allen Dobb & Associates; BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development
+Clients: Allen Dobb & Associates; BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development<br/>
 Code: Drupal, PHP, Postgres<br/>
 
 ---
 [Manitoba Burn App 2017](/project_burn_app)<br/>
 Andy Nadler of Peak Hydromet contracted us to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
-Clients: Peak HydroMet Solutions; Government of Manitoba
+Clients: Peak HydroMet Solutions; Government of Manitoba<br/>
 Code: Python, Postgres<br/>
 
 ---
 [Peace Forage Tool 2014](http://peaceforagetool.ca/)<br/>
 A web-based decision support tool to help forage producers and re-vegetation specialists select appropriate forage species for their seeding projects. The “Peace Forage Seeding Tool – An interactive forage seeding database for the Peace Region” is up and running. TheTool contains information on 47 different agronomic and native grass and legume species. The Tool’s database is based on the excellent 282 page BC Rangeland Seeding Manual by Allen Dobb and Sandra Burton which was published last year by the Ministry of Agriculture.<br/>
-Clients: [Peace River Forage Association](http://www.peaceforage.bc.ca/)
+Clients: [Peace River Forage Association](http://www.peaceforage.bc.ca/)<br/>
 Code: Drupal, PHP, MySQL<br/>
 
 ---

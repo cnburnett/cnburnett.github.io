@@ -59,6 +59,8 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 - [Dzawada̱ʼenux̱w First Nation Land & Marine Use Plan](http://example.com/)
 - Community Mapping: VicWest Community Visions Poster Map
 - Community Mapping: Port Renfrew Community Visions Map & Report
+- City of Victoria Community Asset Map
+- First Nations lands legislation jurisdiction overlap analysis
 
 ---
 

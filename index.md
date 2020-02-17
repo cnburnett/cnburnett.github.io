@@ -6,8 +6,8 @@
 
 [Community Energy & Emissions Database 2019-2020](/project_ceed)<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
-**Clients:** BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation<br/>
-**Code:** Microsoft Dynamics 365, custom code.<br/>
+**Employer:** BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation<br/>
+**Code:** Microsoft Dynamics 365, Microsoft Portal, custom code.<br/>
 
 [Cedar Box 2007-2018](/project_cedarbox)<br/>
 A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. Now maintained by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>
@@ -35,8 +35,8 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 - Health Spaces 'Community of Practice' portal for BC Provincial Health Services Agency
 - New Relationship Trust Grants Map
 - First Peoples’ Culture Council Interactive Language Map
-- First Peoples’ Culture Council: Language Survey Tool to Support Granting
-- First Peoples’ Culture Council BC Places Audio Map App (Android App)
+- First Peoples’ Culture Council Language Survey Tool to Support Granting
+- First Peoples’ Culture Council BC Places Audio Map App (Android App proof of concept)
 - UVIC CORAL Laboratory Touch Tables and Video Wall
 - Union of BC Indian Chiefs (UBCIC) Specific Claims Online Course
 

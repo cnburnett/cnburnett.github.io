@@ -25,7 +25,7 @@ A secure map-enabled portal for exploring and maintaining a rich range managemen
 
 ---
 [Manitoba Burn App 2017](/project_burn_app)<br/>
-Andy Nadler of Peak Hydromet contracted us to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
+Andy Nadler of [Peak HydroMet Solutions](http://www.peakhydromet.ca/) contracted me to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
 **Clients:** Peak HydroMet Solutions; Government of Manitoba<br/>
 **Code:** Python, Postgres<br/>
 

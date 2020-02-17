@@ -7,3 +7,4 @@ The second part of the system was the review tool, which allowed a Manitoba Gove
 The last part of the system allows for printing of all outstanding permits, so that partners (law enforement) can obtain an up-to-date copy of where burning is authorized.
 
 <img src="images/prj_burn_app_manage.jpg?raw=true"/>
+<img src="images/prj_burn_app_forecast.jpg?raw=true"/>

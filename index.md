@@ -37,6 +37,7 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 #### Other Web Application Builds
 
+- Haida Traditional Ecological Knowledge Explorer (de-cant ArcGIS geodatabase)
 - Health Spaces 'Community of Practice' portal for BC Provincial Health Services Agency
 - New Relationship Trust Grants Map
 - First Peoples’ Culture Council Interactive Language Map
@@ -61,6 +62,8 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 - Community Mapping: Port Renfrew Community Visions Map & Report
 - City of Victoria Community Asset Map
 - First Nations lands legislation jurisdiction overlap analysis
+- Analysis of automated image analysis for forest change detection at regional versus stand levels (PhD research)
+- Analysis of data quality from airborne CASI for tree crown identification analysis in mountainous terrain (MSc research)
 
 ---
 
@@ -70,6 +73,8 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 - [University of Victoria GEOG 391 - Community Mapping (2010)](/course_comm_map)
 - [University of Victoria GEOG 399 - Indigenous Geographies](http://example.com/)
 - [SELES Spatio-Temportal Modelling](http://example.com/)
+- University of Victoria GEOG 322 - Geographic Information Systems (2007)
+- University of Victoria GEOG 328 - Remote Sensing (2006)
 
 ---
 

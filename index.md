@@ -13,7 +13,7 @@ Part CRM, part Grants Management tool. Bringing hundreds of past and current cle
 
 [Cedar Box 2007-2018](/project_cedarbox)<br/>
 A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. Now maintained by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>
-**Clients:** ~12 BC First Nations
+**Clients:** ~12 BC First Nations<br/>
 **Code:** GeoDjango, Python, Postgres<br/>
 
 ---

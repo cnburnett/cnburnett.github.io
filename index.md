@@ -18,14 +18,15 @@ Code: GeoDjango, Python, Postgres<br/>
 
 ---
 
-[Integrated Range Information System 2015-2017](/pdf/sample_presentation.pdf)<br/>
+[Integrated Range Information System 2015-2017](/project_iris)<br/>
 A secure map-enabled portal for exploring and maintaining a rich range management knowledge base for BC Provincial government staff. The resulting community of practice site, has powerful browse and search capabilities covering the following topics: range science and technology, range administration, range legislation, range policy and range procedures. <br/>
 Clients: Allen Dobb & Associates; BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development
 Code: Drupal, PHP, Postgres<br/>
 
 ---
-[Manitoba Burn App 2017](http://example.com/)<br/>
-<br/>
+[Manitoba Burn App 2017](/project_burn_app)<br/>
+Andy Nadler of Peak Hydromet contracted us to build a simple to use map-enabled crop residue permitting system. Manitoba Government representatives issue hundreds of permits every year to control the timing of crop residue burning so that smoke does not obstruct public roadways or create problems for neighbouring residents.<br/>
+Clients: Peak HydroMet Solutions; Government of Manitoba
 Code: Python, Postgres<br/>
 
 ---

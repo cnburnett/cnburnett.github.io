@@ -24,9 +24,14 @@ A secure map-enabled portal for exploring and maintaining a rich range managemen
 **Clients:** Allen Dobb & Associates; BC Ministry of Forests, Lands, Natural Resource Operations and Rural Development<br/>
 **Code:** Drupal, PHP, Postgres<br/>
 
+[BC Indigenous Arts Map 2016](/project_fpcc_arts_map)<br/>
+An online map‐driven community of practice website for BC Indigenous artists.
+**Client:** [First Peoples’ Culture Council](https://www.fp-artsmap.ca/)<br/>
+**Code:** PHP/Drupal, database is MarianDB, maps built using Leaflet JS.<br/>
+
 [Peace Forage Tool 2014](http://peaceforagetool.ca/)<br/>
 A web-based decision support tool to help forage producers and re-vegetation specialists select appropriate forage species for their seeding projects. The “Peace Forage Seeding Tool – An interactive forage seeding database for the Peace Region” is up and running. TheTool contains information on 47 different agronomic and native grass and legume species. The Tool’s database is based on the excellent 282 page BC Rangeland Seeding Manual by Allen Dobb and Sandra Burton which was published last year by the Ministry of Agriculture.<br/>
-**Clients:** [Peace River Forage Association](http://www.peaceforage.bc.ca/)<br/>
+**Client:** [Peace River Forage Association](http://www.peaceforage.bc.ca/)<br/>
 **Code:** Drupal, PHP, MySQL<br/>
 
 #### Other Web Application Builds
@@ -37,7 +42,6 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 - First Peoples’ Culture Council Interactive Language Map
 - First Peoples’ Culture Council Language Survey Tool to Support Granting
 - First Peoples’ Culture Council BC Places Audio Map App (Android App proof of concept)
-- UVIC CORAL Laboratory Touch Tables and Video Wall
 - Union of BC Indian Chiefs (UBCIC) Specific Claims Online Course
 
 ---
@@ -46,12 +50,13 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 - Cartography and Climate Impacts Writing: Maps and statistics for Climate Adaptation Report for Agricultural Producers
 - [Cumulative Openings and Retention Analysis for BC Forest Practices Board (2008)](/project_cumm_openings)
-- [Xeni Gwetin](http://example.com/)
+- Xeni Gwetin GIS Basemaps & Training
+- [UVIC CORAL Laboratory Touch Tables and Video Wall](/project_uvic_coral_lab)
 - Community Mapping: Highlands Community Tourism Wall Map
 - Community Mapping: University of Victoria Community Poster Map & Online Map (Drupal)
 - Community Mapping: Squamish Seniors Community Poster Map
 - First Nations Fisheries Council Regions Drafting
-- [Dzawada̱ʼenux̱w First Nation Land & Marine Use Plan](http://example.com/)
+- Dzawada̱ʼenux̱w First Nation Land & Marine Use Plan
 - Community Mapping: VicWest Community Visions Poster Map
 - Community Mapping: Port Renfrew Community Visions Map & Report
 - City of Victoria Community Asset Map

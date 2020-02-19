@@ -18,4 +18,4 @@ The legislative requirements under the Forest and Range Practices Act and Forest
 
 For the development of within-stand retention practices in salvage blocks following attack by mountain pine beetle (MPB, Dendroctonus ponderosae) stand-level practices are required that help create conditions that resemble, to a reasonable extent, the spatial, temporal, and structural characteristics of natural disturbances. 2 Some key habitat issues that may need to be considered when planning include retaining mature forest attributes such as large live trees and snags, connectivity and isolation effects, riparian reserves and management zones, prompt access management, and maintaining heterogeneity.
 
-This analysis was published in the following Forest Practices Report: https://www.bcfpb.ca/reports-publications/reports/biodiversity-conservation-during-salvage-logging-in-the-central-interior-of-bc/
+This analysis was published in the following [Forest Practices Report](https://www.bcfpb.ca/reports-publications/reports/biodiversity-conservation-during-salvage-logging-in-the-central-interior-of-bc/)

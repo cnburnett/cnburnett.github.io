@@ -25,7 +25,7 @@ A secure map-enabled portal for exploring and maintaining a rich range managemen
 **Code:** Drupal, PHP, Postgres<br/>
 
 [BC Indigenous Arts Map 2016](/project_fpcc_arts_map)<br/>
-An online map‐driven community of practice website for BC Indigenous artists.
+An online map‐driven community of practice website for BC Indigenous artists.<br/>
 **Client:** [First Peoples’ Culture Council](https://www.fp-artsmap.ca/)<br/>
 **Code:** PHP/Drupal, database is MarianDB, maps built using Leaflet JS.<br/>
 
@@ -70,8 +70,8 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 - [University of Victoria GEOG 391 - Community Mapping (2016)](/course_comm_map)
 - [University of Victoria GEOG 391 - Community Mapping (2010)](/course_comm_map)
-- [University of Victoria GEOG 399 - Indigenous Geographies](http://example.com/)
-- [SELES Spatio-Temportal Modelling](http://example.com/)
+- University of Victoria GEOG 399 - Indigenous Geographies
+- SELES Spatio-Temportal Modelling
 - University of Victoria GEOG 322 - Geographic Information Systems (2007)
 - University of Victoria GEOG 328 - Remote Sensing (2006)
 
@@ -86,7 +86,7 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 #### Restoration Ecology
 - Langanke, T., Burnett, C. and S. Lang (2007) Assessing the Mire Conservation Status of a Raised Bog Site in Salzburg Using Object-based Monitoring and Structural Analysis, In. Sepp, K. and O. Bastian (Eds.), Special Issue on Studying Landscape Change: Indicators, Assessment and Application, Landscape and Urban Planning, Volume 79, Issue 2, Pages 160-169.
-- Burnett, C., A. Fall, E. Tomppo, and R. Kalliola (2003) [Monitoring Current Status of and Trends in Boreal Forest Land Use in Russian Karelia](ww.ecologyandsociety.org/vol7/iss2/art8/). Ecology & Society 7(2): 8. [online]
+- Burnett, C., A. Fall, E. Tomppo, and R. Kalliola (2003) [Monitoring Current Status of and Trends in Boreal Forest Land Use in Russian Karelia](https://www.ecologyandsociety.org/vol7/iss2/art8/). Ecology & Society 7(2): 8. [online]
 
 #### Forest Resources Management
 - Shore, T.L., A. Fall, C. Burnett, W.G. Riel (2009) Characterization of the Jack Pine Forests of Western Canada for Susceptibility to Infestation by the Mountain Pine Beetle. Mountain Pine Beetle Working Paper 2009-04. SB945 M78 C42 2009

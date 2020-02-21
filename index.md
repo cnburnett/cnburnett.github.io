@@ -4,7 +4,7 @@
 
 ### Web Applications
 
-[Community Energy & Emissions Database 2019-2020](/project_ceed)<br/>
+Community Energy & Emissions Database 2019-2020<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
 **Employer:** BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation<br/>
 **Code:** Microsoft Dynamics 365, Microsoft Portal, custom code.<br/>

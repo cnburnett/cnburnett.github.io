@@ -1,5 +1,7 @@
 [< Back](/)
 
+Back link
+
 ## IRISBC Range Information Portal (2016)
 
 **Project description:** In this 24 month project, led by domain expert Allen Dobb, I designed and developed a secure map-enabled portal for exploring and maintaining a rich range management knowledge base for BC Provincial government staff. The resulting community of practice site, has powerful browse and search capabilities covering the following topics: range science and technology, range administration, range legislation, range policy and range procedures. It has a dedicated Learning section, but the Portal itself is meant to be a open learning tool. The Portal includes some nice features like 2-way page references to show users what content mentions a particular Policy or Procedure; a rich media directory; and, of course, custom maps.

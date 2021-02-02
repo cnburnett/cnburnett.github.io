@@ -4,10 +4,17 @@
 
 ### Web Applications
 
+**BC Bid Replacement 2020-2021**<br/>
+Ivalua Software as a Service (SaaS) Procure-to-Pay solution to launch in Fall 2021.<br/>
+**Employer:** BC Ministry of Citizens' Services<br/>
+**Code:** GUI-based configuration, SQL.<br/>
+**Roles:** Business analyst; Risk analysis; Configuration options; UX; Business Impact Analysis; Training.<br/>
+
 **Community Energy & Emissions Database 2019-2020**<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
-**Employer:** BC Ministry of Energy, Mines & Petroleum Resources; BC Ministry of Indigenous Relations & Reconciliation<br/>
+**Employer:** BC Ministry of Energy, Mines and Low Carbon Innovation; BC Ministry of Indigenous Relations & Reconciliation<br/>
 **Code:** Microsoft Dynamics 365, Microsoft Portal, custom code.<br/>
+**Roles:** Business analyst; Database, Views and Forms Configuration, UAT.<br/>
 
 [Cedar Box 2007-2018](/project_cedarbox)<br/>
 A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. The Cedar project is now maintained and extended by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>

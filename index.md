@@ -5,7 +5,7 @@
 ### Web Applications
 
 **BC Bid Replacement 2020-2021**<br/>
-Ivalua Software as a Service (SaaS) Procure-to-Pay solution to launch in Fall 2021.<br/>
+Ivalua Software as a Service (SaaS) Procure-to-Pay solution launching Fall 2021.<br/>
 **Employer:** BC Ministry of Citizens' Services<br/>
 **Code:** GUI-based configuration, SQL.<br/>
 **Tasks:** Business analysis; Risk analysis; Project management; Configuration options; User experience (UX); Business Impact Analysis; Training.<br/>

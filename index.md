@@ -4,11 +4,11 @@
 
 ### Web Applications
 
-**BC Bid Replacement 2020-2021**<br/>
+**BC Bid Replacement 2020-2022**<br/>
 Ivalua Software as a Service (SaaS) Procure-to-Pay solution launching Fall 2021.<br/>
 **Employer:** BC Ministry of Citizens' Services<br/>
 **Code:** GUI-based configuration, SQL.<br/>
-**Tasks:** Business analysis; Risk analysis; Project management; Configuration options; User experience (UX); Business Impact Analysis; Training.<br/>
+**Tasks:** Business analysis; Risk analysis; Project management; Configuration options; User experience (UX); Business Impact Analysis; Training; Web-based documentation.<br/>
 
 **Community Energy & Emissions Database 2019-2020**<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>

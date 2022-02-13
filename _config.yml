@@ -5,7 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Trained as a physical geography and landscape ecology researcher, I bring a holistic, systems approach to my work. I have a passion for supporting and leading communities and communities of practice.
   <br><br>
-  <a href="https://www.linkedin.com/in/cburnett/">View My LinkedIn Profile</a>
+  <b>Awards</b>
+  <ul><li>BC Public Service 2020 Staff Award of Excellence Cultivating the Co-op Employee Experience</li></ul>
+  <br><br>
+  <a href="https://www.linkedin.com/in/cburnett/" target="_blank">View My LinkedIn Profile</a>
+
 
 theme: jekyll-theme-minimal
 google_analytics: UA-158825473-1 # your Google Analytics tracking ID here

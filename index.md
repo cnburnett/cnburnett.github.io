@@ -8,7 +8,7 @@
 Ivalua Software as a Service (SaaS) Procure-to-Pay solution launching Fall 2021.<br/>
 **Employer:** BC Ministry of Citizens' Services<br/>
 **Code:** GUI-based configuration, SQL.<br/>
-**Tasks:** Business analysis; Risk analysis; Project management; Configuration options; User experience (UX); Business Impact Analysis; Training planning; Web-based documentation design and building; Procurement list management .prototyping.<br/>
+**Tasks:** Business analysis; Risk analysis; Project management; Configuration options; User experience (UX); Business Impact Analysis; Training planning; Web-based documentation design and building; Prototyping (procurement list management).<br/>
 
 **Community Energy & Emissions Database 2019-2020**<br/>
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>

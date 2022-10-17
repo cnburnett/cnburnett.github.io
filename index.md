@@ -14,7 +14,8 @@ Ivalua Software as a Service (SaaS) Procure-to-Pay solution launched June 2022.<
 Part CRM, part Grants Management tool. Bringing hundreds of past and current clean energy funding applications together into a database.<br/>
 **Employer:** BC Ministry of Energy, Mines and Low Carbon Innovation; BC Ministry of Indigenous Relations & Reconciliation<br/>
 **Code:** Microsoft Dynamics 365, Microsoft Portal, custom code.<br/>
-**Tasks:** Project management; User experience (UX); Vendor management; Business analysis; Database, views and forms configuration; User acceptance testing.<br/>
+**Tasks:** Project management; User experience (UX); Vendor management; Business analysis; Database, views and forms configuration; User acceptance testing.
+**Public-facing:** You can view a WordPress site that draws funding data from CEED here: [BC Community Climate Funding Guide](https://communityclimatefunding.gov.bc.ca/)<br/>
 
 ### Web Applications - as team lead/owner, GeoMemes Research Inc
 

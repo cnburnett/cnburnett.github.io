@@ -88,6 +88,12 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 ### Publications
 
+Google Scholar link: [click here](https://scholar.google.com/citations?user=fYxlNqIAAAAJ)
+
+#### GIS
+
+- Burnett, C. & T. Blaschke (2003) [A multi-scale segmentation/object relationship modelling methodology for landscape analysis](https://www.sciencedirect.com/science/article/abs/pii/S030438000300139X). Ecological Modelling 168(3).
+
 #### Land, Coastal & Marine Use Planning
 - Canessa, R., Loos, S. & C. Burnett (2008) BC Marine Conservation Analysis, Final Project Report prepared for Skeena First Nations, Central Coast First Nations, Haida Fisheries Program, and Turning Point Initiative, 60p.
 - Burnett, C. & L. Taves (2006) Implications on land and resource use of overlapping land use plans, 33p. Report + wiki website + GIS analysis + 36 maps

@@ -2,7 +2,7 @@
 
 ---
 
-### Web Applications - as B.C. Government employee
+### Web Applications - as a public servant
 
 **BC Bid Replacement 2020-2022**<br/>
 Ivalua Software as a Service (SaaS) Procure-to-Pay solution launched June 2022.<br/>
@@ -18,7 +18,7 @@ Part CRM, part Grants Management tool. Bringing hundreds of past and current cle
 **Tasks:** Project management; User experience (UX); Vendor management; Business analysis; Database, views and forms configuration; User acceptance testing.<br/>
 **Public-facing:** You can view a WordPress site that pulls funding data from CEED here: [BC Community Climate Funding Guide](https://communityclimatefunding.gov.bc.ca/)<br/>
 
-### Web Applications - as team lead/owner, GeoMemes Inc
+### Web Applications - in industry
 
 [Cedar Box 2007-2018](/project_cedarbox)<br/>
 A secure integrated web-based application for (1) promoting Stewardship Office team collaboration and (2) managing consultation, heritage, fieldwork and GIS data – all to protect and promote First Nations cultural revitalization and economic development. The Cedar project is now maintained and extended by [Mighty Oaks](https://www.mightyoaks.com/software-solutions/cedar-box/).<br/>
@@ -45,7 +45,7 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 **Client:** [Peace River Forage Association](http://www.peaceforage.bc.ca/)<br/>
 **Code:** Drupal, PHP, MySQL<br/>
 
-#### Other Web Application Builds - as team lead/owner, GeoMemes Inc
+#### Other Web Application Builds - in industry or non-profit
 
 - Haida Traditional Ecological Knowledge Explorer (de-cant ArcGIS geodatabase)
 - Health Spaces 'Community of Practice' portal for BC Provincial Health Services Agency
@@ -57,7 +57,7 @@ A web-based decision support tool to help forage producers and re-vegetation spe
 
 ---
 
-### Other GIS, Cartography, Landscape Ecology Reports and Projects - As Team Lead, GeoMemes Research Inc
+### Earlier GIS, Cartography, Landscape Ecology Reports and Projects
 
 - Cartography and Climate Impacts Writing: Maps and statistics for Climate Adaptation Report for Agricultural Producers
 - [Cumulative Openings and Retention Analysis for BC Forest Practices Board (2008)](/project_cumm_openings)

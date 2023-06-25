@@ -47,17 +47,17 @@ Canada eMail: cburnett@uvic.ca
 <br><br>
 
 
-Supervisors:
+Supervisors:<br><br>
 
 Professor Risto Kalliola<br> 
 University of Turku<br>
 FIN-20014 Turku<br>
-Finland
+Finland<br><br>
 
 Professor Petri Pellikka<br>
 University of Helsinki<br>
 FIN-00014 Helsinki<br>
-Finland
+Finland<br><br>
 
 
 Reviewers:
@@ -66,16 +66,15 @@ Professor Wolter Arnberg<br>
 Stockholm University<br>
 Department of Physical Geography and Quaternary Geology<br>
 S-106 91 Stockholm<br> 
-Sweden
+Sweden<br><br>
 
 Dr. Olli Jaakkola<br>
 Finnish Geodetic Institute<br>
 Geodeetinrinne 2, P.O.Box 15<br>
 FIN-02431 Masala<br>
-Finland 
+Finland <br><br>
 
-
-
+<br><br>
 ISBN 951-29-2083-2<br>
 ISSN 0082-6979<br>
 Painosalama Oy Turku,Finland 2002 

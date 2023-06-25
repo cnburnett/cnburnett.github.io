@@ -24,8 +24,6 @@ IN INFORMATION SPACE</p>
 <p style="text-align: center;">by
 Charles Burnett</p>
 
-<br><br>
-
 <p style="text-align: center;">ACADEMIC DISSERTATION</p>
 
 <p style="text-align: center;">To be presented,  with permission of the Faculty of Matematics and Natural Sciences<br> of the University of Turku, for public criticism in the Tauno Nurmela Auditoirum<br> on April 20th, 2002, at 12 o'clock noon.</p>
@@ -38,14 +36,13 @@ Charles Burnett</p>
 <br>
 Department of Geography<br>
 University of Turku<br>
-FIN-20014 Turku<br>
+FIN-20014 Turku<br
 Finland<br>
 Email: charles.burnett@utu.fi<br>
 eMail: gi_science@hotmail.com<br>
 Austria eMail: charles.burnett@sbg.ac.at<br>
 Canada eMail: cburnett@uvic.ca
 <br><br>
-
 
 Supervisors:<br><br>
 

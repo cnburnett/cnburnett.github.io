@@ -1,12 +1,12 @@
 ## Burnett PhD dissertation published May 2002
 
-**Project description:** In 1998 I met Finish researcher Petri Pellikka at a conference in Copenhagen. 18 months later, I accepted a Academy of Finland researcher position at the University of Turku. Approximately 30 months after that I defended my PhD dissertation. The following documents the 6 papers and the dissertation Summary.
+**Project description:** In 1998 I met Finish researcher Petri Pellikka at a Remote Sensing conference in Copenhagen. 18 months later, I started a Academy of Finland researcher position at the University of Turku. And approximately 30 months after that I defended my PhD dissertation.
 
-I have marked in red text which has been added to the published original.
+This webpage is a copy of the text in the print version of my dissertation Summary.
 
+I have marked in red any text which has been added added of edited to the published original.
 
 <br><br><br>
-
 
 <p style="text-align: center;">TURUN YLIOPISTON JULKAISUJA<br>
 ANNALES UNIVERSITIS TURKUENSIS
@@ -28,7 +28,6 @@ Charles Burnett</p>
 
 <p style="text-align: center;">To be presented,  with permission of the Faculty of Matematics and Natural Sciences<br> of the University of Turku, for public criticism in the Tauno Nurmela Auditoirum<br> on April 20th, 2002, at 12 o'clock noon.</p>
 
-
 <p style="text-align: center;">TURUN YLIOPISTO
 <p style="text-align: center;">Turku 2002
 
@@ -46,7 +45,7 @@ Canada eMail: cburnett@uvic.ca
 
 Supervisors:<br><br>
 
-Professor Risto Kalliola<br> 
+Professor Risto Kalliola<br>
 University of Turku<br>
 FIN-20014 Turku<br>
 Finland<br><br>
@@ -56,13 +55,12 @@ University of Helsinki<br>
 FIN-00014 Helsinki<br>
 Finland<br><br>
 
-
 Reviewers:
 
 Professor Wolter Arnberg<br>
 Stockholm University<br>
 Department of Physical Geography and Quaternary Geology<br>
-S-106 91 Stockholm<br> 
+S-106 91 Stockholm<br>
 Sweden<br><br>
 
 Dr. Olli Jaakkola<br>
@@ -74,7 +72,7 @@ Finland <br><br>
 <br><br>
 ISBN 951-29-2083-2<br>
 ISSN 0082-6979<br>
-Painosalama Oy Turku,Finland 2002 
+Painosalama Oy Turku,Finland 2002
  <hr>
 <br>
 
@@ -107,8 +105,6 @@ This thesis is a compilation of the following articles, which are referred to by
   </tr>
 </table>
 
-
-
 <br>
 Copyright of the published articles:<br>
 © Geographical Society of Finland<br>
@@ -121,11 +117,10 @@ You can access the colour images by visiting the web address below:
 <br><br>
 http://www.utu.fi/ml/maantiede/maisema/Publications/Burnett/Burnett_phd.html
 <br><br>
-Correction: 
+Correction:
 <br>
 The colour images have been embedded in this web version.
 <br><br>
-
 
 _____________________________________________________________________
 <br>
@@ -134,7 +129,7 @@ _____________________________________________________________________
 
 **1. INTRODUCTION_____________________________________________________________________ 1**<br><br>
 2. A THEORETICAL AND METHODOLOGICAL BACKGROUND____________________________ 4<br>
-2.1. SOCIETY AND GEOGRAPHIC INFORMATION _____________________________________ 4<br>
+2.1. SOCIETY AND GEOGRAPHIC INFORMATION _____________________________________4<br>
 2.2. BIOGEOGRAPHY AND LANDSCAPE ECOLOGY ____________________________________ 7<br>
 2.3. COMPLEXITY AND SCALE IN ECOSYSTEMS________________________________________ 8<br>
 2.4. EARTH OBSERVATION DATA ANALYSIS: PIXELS PROBLEMS? _____________________ 10<br>
@@ -147,21 +142,20 @@ _____________________________________________________________________
 3.2. ASSESSING REMOTELY-SENSED DATA QUALITY_______________________________ 15<br>
 3.3. L-RESOLUTION CASE STUDY AND METHOD __________________________________ 15<br>
 &nbsp;&nbsp;&nbsp;3.3.1. Land-use monitoring _______________________________________________ 15<br>
-&nbsp;&nbsp;&nbsp;3.3.2. k-nn forest parameter estimation______________________________________ 16<br>
-&nbsp;&nbsp;&nbsp;3.3.3. Forest fragmentation modelling ______________________________________ 16<br>
+&nbsp;&nbsp;&nbsp;3.3.2. k-nn forest parameter estimation______________________________________16<br>
+&nbsp;&nbsp;&nbsp;3.3.3. Forest fragmentation modelling______________________________________ 16<br>
 3.4. H-RESOLUTION CASE STUDY AND METHOD __________________________________ 16<br>
 &nbsp;&nbsp;&nbsp;3.4.1. Data Processing: crown delineation, patch segmentation __________________ 17<br>
 &nbsp;&nbsp;&nbsp;3.4.4. Creating functional unit maps: image object modelling ____________________ 17<br><br>
-4. MAIN RESULTS AND DISCUSSION _________________________________________ 18<br>
-4.1. ARTIFACTS CHANGE AS PART OF BROADER SOCIETAL TRENDS ___________________ 18<br>
+4. MAIN RESULTS AND DISCUSSION_________________________________________18<br>
+4.1. ARTIFACTS CHANGE AS PART OF BROADER SOCIETAL TRENDS___________________18<br>
 4.2. SPATIAL DATA QUALITY IS A CRITICAL ISSUE FOR GI ARTIFACTS _________________ 20<br>
-4.3. DISPARITIES BETWEEN LANDSCAPE ECOLOGY AND GI ARTIFACTS _______________ 21<br>
+4.3. DISPARITIES BETWEEN LANDSCAPE ECOLOGY AND GI ARTIFACTS_______________ 21<br>
 4.4. OPTIMAL METHODOLOGY VARIES WITH STUDY QUESTION_______________________ 23<br>
-&nbsp;&nbsp;&nbsp;4.4.1. L-resolution: extending functionality beyond the pixel _____________________ 23<br>
-&nbsp;&nbsp;&nbsp;4.4.2. H-resolution: mapping functional patches with hierarchical patch dynamics ___ 24<br><br>
-5. CONCLUSIONS ___________________________________________________________ 25<br><br>
-REFERENCES ______________________________________________________________ 26
-
+&nbsp;&nbsp;&nbsp;4.4.1. L-resolution: extending functionality beyond the pixel_____________________ 23<br>
+&nbsp;&nbsp;&nbsp;4.4.2. H-resolution: mapping functional patches with hierarchical patch dynamics___ 24<br><br>
+5. CONCLUSIONS ___________________________________________________________25<br><br>
+REFERENCES______________________________________________________________ 26
 
 <br><br><br><br>
 <p style="text-align: center;"><em>Nature is a temple in which living pillars<br>
@@ -188,9 +182,9 @@ of that world. (Cosgrove 1984, p 13).
 
 In the process of projecting landscape information into geo-representations, humans aggregate sets or layers of spatial information. For these high dimension collections I propose the term “information space” because it suggests a stage of conceptualization and assembly preceding any distillation of a visualisation. From an aggregate ***landscape information space***, layers are combined and contrasted, new layers created and sub-sets distilled to create visualisations.
 
-The impetus for this dissertation is the assertion that the demands placed on mapping artifacts are increasing, and that this is driving the development of systems that increase both the utility of landscape information spaces, and improve on the traditional cartographer>map>user communication model described by Robinson (1952). The cumulative impacts of human use on the environment is such that the maintainability of some ecosystems is now in question. Species and landscape diversity is in flux, and very few areas on the globe are not heavily impacted by human resource use, either locally or as an effect of adjacency. Mean global temperature and sea level is projected to rise under all synopses investigated by the International Panel on Climate Change (IPCC 2001). 
+The impetus for this dissertation is the assertion that the demands placed on mapping artifacts are increasing, and that this is driving the development of systems that increase both the utility of landscape information spaces, and improve on the traditional cartographer>map>user communication model described by Robinson (1952). The cumulative impacts of human use on the environment is such that the maintainability of some ecosystems is now in question. Species and landscape diversity is in flux, and very few areas on the globe are not heavily impacted by human resource use, either locally or as an effect of adjacency. Mean global temperature and sea level is projected to rise under all synopses investigated by the International Panel on Climate Change (IPCC 2001).
 
-These trends may or may not be cause for alarm, depending upon a host of unknowns: critical thresholds in nature; the resilience of ecosystems; and on the resourcefulness of human ingenuity. Regardless, humans are impacting the environment and sustainability questions call for more information to be gathered on antropocentric, natural and interdigitated systems. Lavers and Haines-Young (1993) suggest that through the wider use of spatial information systems, we may gain deeper insight into the spatial structure and dynamics of systems. Our society needs more and increasingly accurate information on spatially distributed phenomena. We need better tools for scientific analysis and visualisation and better artifacts for geographic information (GI) communication: we need better geo-representations. 
+These trends may or may not be cause for alarm, depending upon a host of unknowns: critical thresholds in nature; the resilience of ecosystems; and on the resourcefulness of human ingenuity. Regardless, humans are impacting the environment and sustainability questions call for more information to be gathered on antropocentric, natural and interdigitated systems. Lavers and Haines-Young (1993) suggest that through the wider use of spatial information systems, we may gain deeper insight into the spatial structure and dynamics of systems. Our society needs more and increasingly accurate information on spatially distributed phenomena. We need better tools for scientific analysis and visualisation and better artifacts for geographic information (GI) communication: we need better geo-representations.
 
 GISc is a rapidly evolving collage of disciplines, methodologies, practices and technologies (Raper 2001, p.4), including geography, cartography, mathematics, computer science, and more recently, cognitive scientists, psychologists, anthropologists and archaeologists (Goodchild et al. 1999). The six constituent articles found in this dissertation may be positioned most closely within the over-lapping fields of geography, computer science and ecology (Figure 1). This thesis contributes to our understanding of the challenges inherent to spatial information tool development and the application of new theoretical and methodological tools to landscape analysis.
 
@@ -207,7 +201,7 @@ Paper [IV] introduces a regional biogeography problem which requires GI analysis
 Figure 1. A schematic locating the six constituent articles of this dissertation in
 relation to the fields of Geography, Computer Science and Ecology.
 
-Paper [V] applies a methodology for monitoring and modelling land-use change to forested landscapes of a northern border region between Finland and Russian Karelia. The analysis includes a database building stage, a forest mapping stage and a land-use modelling stage. 
+Paper [V] applies a methodology for monitoring and modelling land-use change to forested landscapes of a northern border region between Finland and Russian Karelia. The analysis includes a database building stage, a forest mapping stage and a land-use modelling stage.
 
 In the database building, medium resolution remotely sensed imagery is collected and georeferenced over a 15 year time span. Using simple change images, visual interpretation enabled the delineation of forest change areas in each era. Using a statistical method developed for the
 Finnish Multisource Forest Inventory, a forest classification was created for the study area. In the final stage of the analysis, a spatio-temporal model was built to simulate the change in the forest fragmentation in the next 250 years, given the estimated cutting and fire levels. Finally, paper [VI] provides a theoretical framework for the monitoring of landscapes at the local or habitat level. It is suggested that the monitoring of ecosystems, which exhibit such characteristics as emergence, hierarchy and non-linearity, may best be addressed by moving
@@ -218,10 +212,10 @@ dynamics theory. Two demonstrations of multiscale segmentation analysis and mapp
 
 ## 2.1. Society and Geographic Information
 
-Maps may be examined as “iconic or representational models and as conceptual models in a framework provided by the human being’s struggle to communicate to his fellows something of the nature of the real world” (Board 1979, p 671). The conception of geo-representations in this dissertation is as maps, “vehicles for the flow of information” (Board 1979, p 673) and as frameworks for information integration and analysis. This definition is adopted deliberately to allow a broad exploration of cartographic information models. In this way, maps, or better georepresentation artifacts, include both 1) general cartographic systems and 2) systems for scientific visualisation. These quite different uses of maps are grouped in this dissertation because the line dividing them is blurring, as shall be discussed later. 
+Maps may be examined as “iconic or representational models and as conceptual models in a framework provided by the human being’s struggle to communicate to his fellows something of the nature of the real world” (Board 1979, p 671). The conception of geo-representations in this dissertation is as maps, “vehicles for the flow of information” (Board 1979, p 673) and as frameworks for information integration and analysis. This definition is adopted deliberately to allow a broad exploration of cartographic information models. In this way, maps, or better georepresentation artifacts, include both 1) general cartographic systems and 2) systems for scientific visualisation. These quite different uses of maps are grouped in this dissertation because the line dividing them is blurring, as shall be discussed later.
 
 The traditional cartographic vehicles or models have been the 2 and 2½ dimensional (2½-D) “abstraction in symbolic form of the territory itself” (George 1979, p. 48). These cartographic models have been examined by Board (1979, p 675) with reference to scale and complexity (Figure 2). 2½-D describes a perspective in which the surface of a three-dimensional solid is represented but locations within the solid are not accessable (MacEachren 1995). The surveying and mapping of phenomena in a 2 dimensional x/y space or plane, but with the third dimension of height communicated only through symbols such as point heights or contours, thus adding only 0.5 and not a full third dimension. Full 3-D geo-representations are possible
-only with a combination of volume data, which requires such as stereo aerial photography or scanning LIDAR (LIght Detection And Ranging) data, and computer-based visualisation tools. 
+only with a combination of volume data, which requires such as stereo aerial photography or scanning LIDAR (LIght Detection And Ranging) data, and computer-based visualisation tools.
 
 The traditional 2½-D cartographic model is still the dominant spatial communication system used in society today. It is portable, lending itself to printed media and computer terminal. It is adaptable to an ever expanding range of applications, and easily understood. New representational models, however, have recently been introduced that communicate four dimensions of information, showing the full dimensionality of spatial volume (x, y, z) and time. 3-D city models are an example. What has prompted this change is firstly an increased need for more dimensionality, and secondly, a dramatic leap in our our ability to store, visualize and analyse additional dimensions of data. Both new demands for multidimensional geo-represntations and our increasing technological agency are explored in the first part of this thesis.
 
@@ -243,6 +237,7 @@ Figure 4. New 4-D systems, (left) a real-time up-dated map and (right) modelling
 future landscapes.
 
 ### 2.2. Biogeography and Landscape Ecology
+
 Biogeography is the study of the geographical distribution of organisms, past and present. There are three main processes which are normally explored in biogeography: dispersal, evolution and extinction. All biogeographic patterns derive from these three processes, and each is equally important. The tradition of biogeographical research is long and the range of natural system components assessed has varied. For instance, Humbolt described the latitudinal zonality and high-altitude zonality of the plant and animal world in relation to climate. In 1899, Dokuchaev (1899) described a theory of natural zones, in which he called for the study, not of individual bodies and natural phenomena, but of certain integral territorial aggregates of them (Kalesnik 1962). In Russia, Berg (1947) detailed landscape zones. J. G. Granö introduced a prototypical system for the analysis of landscape as areal units concieved of in some way as complexes (Granö 1929, 1997). In Canada, integrated biogeographical concepts are used in an ecological land classification (Wiken and Ironside 1977) methodology that calls for the total integration of landform, lithology, relief, climate, soils and vegetation. As noted above, the processes of extinction and evolution are the key, and thus the emphasis of biogeographic research is normally on processes and patterns on a regional or broader spatial scale.
 
 This dissertation examines methodology for exploring regional level forest fragmentation (IV, V) which is known to be related to extinction (Linden 2000), however the work also focuses on the spatial scales of individuals and mosaics of communities [VI]. Landscape ecology
@@ -250,6 +245,7 @@ emphasizes the interaction between spatial pattern and ecological process - that
 processes. Not only is landscape ecology concerned with how much there is of a particular component but also with how it is arranged. Second, landscape ecology often focuses upon spatial extents that are larger than those traditionally studied in ecology, but smaller than biogeography. Landscape ecological studies are practiced on a scale large enough to include heterogeneity in ecosystems, usually larger than square kilometers (Golley 1995). Wiens (1992) noted that most landscape ecology studies were conducted at spatial scapes ranging from a few hectares to many square kilometers. The variety of scientific investigation undertaken within the rubric of Landscape Ecology can be seen in the following statements: landscape ecology is a study of complicated systems but needs to be referenced to an organism to be better understood (Turner et al. 1995), and the development of landscape ecology is a direct response to human activity within ecosystems (Kent et al. 1997).
 
 ### 2.3. Complexity and scale in ecosystems
+
 Central to my thesis is the idea that there is a disparity between the sophistication of GI artifacts that have been developed for the study of landscape and the complexity of ecosystems at the landscape level. In order to explore this disparity, we need to briefly examine issues of complexity in ecosystems. Ecosystem science provides us with a variety of first principles with which we can encompass this compexity. I focus on three: self-organization and emergence, hierarchy and quasi-equilibria.
 
 #### Self-organization and Emergence
@@ -344,32 +340,39 @@ The Viena Karelia (Vienansalo) study area [30°07’47”E, 64°54’44”N] is 
 layers (roads, lakes, urban, etc.). See Table 1 in paper [IV, pp. 3] for a listing of the principle datasets used in the Vienansalo study
 
 ### 3.3.1. Land-use monitoring
+
 Visual interpretation ([VI, pp. 3] and [VI, pp. 6]) of the multi-date Landsat MSS and TM imagery was conducted in using image processing software, and a vector database created with layers for urban areas, roads, gravel pits, mine, mine lake, and three ‘eras’ of cut blocks: pre-1986, 1986-1994, and 1994-1998. In order to assist in the delineation and the separation of the
 cut-blocks into the different eras, change images were created where the red (TM band 3) and near infrared (TM band 4) channels of different images (dates) were combined into RGB composites. For instance, with a combination of red channel (1994 band 4), green channel (1986 band 4), and blue channel (1986 band 4), new cutblocks appear bright as red patches on a greyscale background (see also description of ‘false date compositing’ [V, Appendix 1]). Once the GIS database was assembed and checked, road development and clear-cut spatial distribution monitoring was undertaken. For instance, based on the forest cut block era layers, mean (areal) rates of clear cutting for the years between 1986 and 1997 were calculated.
 
 ### 3.3.2. k-nn forest parameter estimation
+
 A classification of the forest types was created based on forest species composition and basal area estimates. These estimates were made using the nonparametric k-nearest-neighbour (k-nn) algorithm (Section 2.5.1.). The k-nn estimation made use of a field database collected during four field visits in 1996-1999. In each type A plot, four sub-plots of 10m diameter were examined with relascope and a tree-by-tree survey, for DBH, species and height. Full descriptions of the over and under-story were made. Inputs to the k-nn processing were the rectified 1994 Landsat TM image, GPS coordinates for each field plot, and plot estimates for tree species composition, tree heights and basal area from the field database [V, pp. 8]. The outputs from the k-nn estimation algorithm were six raster layers covering the entire study area showing the relative proportions of pine, spruce, deciduous, mean height, basal area standing live trees and basal area of standing dead trees[V, pp. 9]. These k-nn estimate layers were converted into mire and forest type classes based on a clumping method. Non-forest layers (urban, roads, mine, and water) was also produced. A leave-one-out validation was made for the forest estimates and the results were favourable. The resulting raster data layers were exported for use in the SELES cell-based landscape simulation tool. The knn estimates were also use to parameterize some of the SELES models. For instance, logging was not allowed in areas that consisted of pure deciduous stands or in forested mires.
 
 ### 3.3.3. Forest fragmentation modelling
+
 The effects of future management activities on the total amount and distribution of near-natural forests (‘old forests’) in the area was explored using a spatio-temporal simulation tool designed at Simon Fraser University, Canada. The Spatially Explicit Landscape Event Simulator (SELES) (Fall & Fall 2001). SELES provides a structured framework to guide development and simulation of spatial landscape models [V, Appendix 3]. Five future scenarios were explored; Status Quo, Maximum Fibre, Conservation, Fire Only and Status Quo plus Fire [V, Appendix 4]. Area statistics [V, pp. 12] and patch metrics were collected for each of the ten Monte Carlo runs made for each of the scenarios. Each scenario was run for 250 years. Fragmentation metrics derived from Fragstats (McGarigal & Marks 1995) that were calculated included number of patches, mean patch size, and size of the largest patch [V, pp. 13]. In the Status Quo and Conservation scenarios, for each patch the mean nearest-neighbour distance (mNN) and the minimum spanning tree (MST) were calculated [V, pp. 15]. These metrics are designed to further describe the spatial pattern landscape fragmentation.
 
 ## 3.4. H-resolution case study and method
+
 The case study examined in H-resolution mode [VI] was Ruissalo Island, Finland. Ruissalo [22°09’07”E, 60°25’50”N] is a 9 km2 island situated in the archipelago of southwestern Finland, near the city of Turku. Due to natural characteristics and long term human
 management, Ruissalo Island is home to one of the richest species communities in Finland. The Ruissalo forest patches differ in species, density, age and purity; ranging from dense immature birch (Betula pendula) plantations to mature stands of lime (Tilia cordata), Scots pine (Pinus sylvestris) and oak (Quercus robur). The island is managed as a recreation area with a large proportion designated as nature reserve. A thorough description of the land use history and biogeographic character of the island is given in Vuorela (2000). Species richness is affected, both positively and negatively, by the fragmentation of forest habitat through its
 effect on the dispersal of individuals between active clusters and other areas of the suitable habitat. In order to assess the suitability of a given landscape structure for the maintenance and expansion of, for example, bird populations, land managers need tools with which to create maps with units (‘patches’) that correlate with an organisms awareness of forest structure. A multi-temporal, multi-spectral and multi-scale dataset was assembled, including base EO datasets of 1 m digital camera data and 2 m airborne AISA spectrometer data (Schulz et al. 1999). Field data was collected in the summers of 2000 and 2001. During these campaigns, individual tree crown mapping was carried out. For each of ten 20 m2 plots, all trees over 20cm DBH had the following data collected: GPS coordinates, species, crown dimension, diameter at breast height (DBH) and tree height. The ten field plots comprise 5 forest types typical to the island. The following methodological steps were adopted for the multiscale segmentation methodology: GI database building, segmentation, object relationship model building, visualisation and quality assessment. This methodology is founded on a view of Nature that exhibits self-organization, hierarchy and quasi-equilibria [VI, pp. 9].
 
 ### 3.4.1. Data Processing: crown delineation, patch segmentation
+
 Individual dominant tree crown detection algorithms were applied to the 1 m digital camera data. Dominant tree crowns were delineated by local maximum (LM) filtering (Gougeon 1997, Wulder et al. 2000). Crowns were also delineated via a segmentation algorithm developed at the Finnish Forest research Institute. Additionally, using multispectral imagery at a lower scale
 of resolution (airborne AISA at 2m GIFOV), the delineated objects (LMs and crowns) were separated spectrally using spectral signatures (Burnett & Pekkarinen (unpublished data)). LMs and crowns became, in effect, level –2 scene patches, with LMs being patches at the theoretical lower limit in size: one pixel.
 
 In a second segmentation step, the digital camera data was again segmented. However, this time the scale of this segmentation was programmed to elicit homogeneous groups of crowns. The resulting set of image objects was designated the landscape level –1 patches. These segments and their attributes (and sub-unit attributes) were stored in the GIS database. Thus, for example, the perimeter length, area, mean spectral value, number of individual tree crowns, the species mix, the amount of bare rock outcrops and the mean dominant crown size was recorded for each level –1 sub-patch. Attributes for each segment were populated through a semi-automated process of data layer mining (see [VI, pp. 13] for more detail).
 
-###3.4.4. Creating functional unit maps: image object modelling Level –1 patch vectors were aggregated to form focal (level 0) patches based on a hypothetical model of nesting/foraging habitat. This aggregation was done in a semi-automated fashion,
+### 3.4.4. Creating functional unit maps: image object modelling Level –1 patch vectors were aggregated to form focal (level 0) patches based on a hypothetical model of nesting/foraging habitat. This aggregation was done in a semi-automated fashion,
 with both rules-based aggregation and aggregation by a user using a GIS tool developed for the study (VI: Fig. 6). In the visualisation step, a level +1 or landscape level map of candidate habitat was created. It is important to stress that the output map was only one candidate georepresentation (see [VI, pp. 14] for more detail). The object-relationship model is explicitly
 stated in the GIS environment and thus is flexible, or modifiable, for a different species or management question.
 
 # 4. Main Results and Discussion
+
 ## 4.1. Artifacts change as part of broader societal trends
+
 Human need is not static nor is technological agency. This is clearly documented in [I] and [II], where eras of mapping artifacts can be explored both in terms of what human needs were being addressed at a point in time (ie. the socio-historic context) and in terms of the technology of the day (ie. the techno-historic context). The sociotechnical synergy underlying all human development drives changes in communication systems into the Information Age [I]: GISc is both influencing and influenced by the digital transition’ currently being experienced by developed societies (Pickles 1999b).
 
 I attempted to describe through diagrams in section 2.1 the change in space-time dimensionality that has accompanied recent evolution in geo-representations. Those 3-D explorations of 4-D space-time might serve as good examples of the classic “slice through
@@ -392,7 +395,7 @@ There are many other issues that must be assessed in order to examine evolutiona
 create customized maps. Cartographic tools are now increasingly accessable by<br>
 lay people and scientists, for instance for scientific visualisation.</p>
 
-Some issues are more societal, such as the debate between open source versus proprietory software development models. Another example is the challenge of addressing changes in societal context when comparing artifacts created at different stages of societal development. Others issues are clearly more technical, such as comparing data storage requirements. To over-emphasize either when criticizing or building artifacts is unwise. 
+Some issues are more societal, such as the debate between open source versus proprietory software development models. Another example is the challenge of addressing changes in societal context when comparing artifacts created at different stages of societal development. Others issues are clearly more technical, such as comparing data storage requirements. To over-emphasize either when criticizing or building artifacts is unwise.
 
 The evolutionary surveys in mapping artifacts presented in [I] and [II] provides a final lesson in that it points out that echnological advances are not necessarily the product of universities. This is very much the case with GI artifact evolution in the Information Age. Undoubtably, university researchers play an important role. However, the roles of individuals, citizen groups, non-profic organizations, industry and government are central to the development of improved GI standards and services. Modern mapping systems can be both tools for societal stability and service continuity, and tools for social change.
 
@@ -400,13 +403,13 @@ These are interesting times for geographers and cartographers. The traditional m
 
 ## 4.2. Spatial data quality is a critical issue for GI artifacts
 
-Data quality issues are central to any criticism of geo-representation artifacts. The quotation from Harvey at the beginning of Section 4.1 cuts to the core of the issue: the capturing of spatial data distorts what it strives to represent (Harvey 1989: 206). Distortions arrise because we are generalizing a highly dimensional reality. By fixing this reality into a communicable form, we are by necessity degrading or distorting the signal. Distortion can be divided based on what dimensions are being distorted. If the distortion is related to capturing the first 4 dimensions of reality (Cartesian dimensions plus time) into a series of 2D representations, we are focusing on mechanical or technical degrading. Since reality is more than just a 4D space, other distortions must be assessed and these we may think of as aspects of conceptual degrading. 
+Data quality issues are central to any criticism of geo-representation artifacts. The quotation from Harvey at the beginning of Section 4.1 cuts to the core of the issue: the capturing of spatial data distorts what it strives to represent (Harvey 1989: 206). Distortions arrise because we are generalizing a highly dimensional reality. By fixing this reality into a communicable form, we are by necessity degrading or distorting the signal. Distortion can be divided based on what dimensions are being distorted. If the distortion is related to capturing the first 4 dimensions of reality (Cartesian dimensions plus time) into a series of 2D representations, we are focusing on mechanical or technical degrading. Since reality is more than just a 4D space, other distortions must be assessed and these we may think of as aspects of conceptual degrading.
 
 Cracknell (1998) provides a critical examination of technical degrading related to the collection of EO data. He examined the distortion of reality associated with the recording into two dimensional arrays of pixels of a four dimensional reality. EO-based images are measurements of up-welling radiance by instruments in motion. Cracknell (1998) explores the data quality aspects of pixel geometry, mixed pixels, sensor point spread functions and image resampling. Pixel shape is a distortion of the reality of the measurement process, because platform velocity is never constant and sensor optics cannot physically produce a square pixel. Topographic variation complicates this further [III], and in a topographically complex landscape the values of collected by the sensor can be quite different from the nominal resolution of the imagery provided by the data vendor. The devolution and convolution of pixels over parts of an image swath will likely affect texture algorithms, signature generation for classification, calculation of species proportions within a stand, stem counts, and closure and gap estimates [III, pp. 5]. The hypothetical local maximum tree crown delineating experiment in [III] demonstrated that topography and resampling can have an significant effect on analysis results (pp. 5).
 
 Other spatial concerns include mixed pixels, which occur because the response of the sensor to a source of radiation with a given intensity will vary according to the location of the source within the field of view, i.e. there are no square lens optics. There will also be a response to sources just outside the geometrical IFOV as well (Cracknell 1998, Townsend et al. 2000). Thus a pixel centred above a water body but adjacent to an immature forest will have its water pixel signal modified in the infrared (IR) wavelengths by the intense IR reflectance of the forest. Fortunately, mixing is not uniform, and Fisher (1997) notes that commonly sensors are centre-biased such that the reflectance towards the centre of the field of view has the most influence on the recorded value. Unfortunately, these biases, as described by the optics, detector (i.e. point spread function) and electronics characteristics, are rarely communicated to users of the GI data. The process of registering the EO data to geographic coordinates, using a mathematical transformations, further introduces a filter between the pattern on the ground and the digital data available for analysis.
 
-Spectral differences within EO data may be induced by atmospheric distortions, bidirectional (BR) effects, topography (ie. shadowing), vingetting, and within image mosaics through relative changes in solar and sensor positions relative to the imaged surface (Burnett et al. 2001). The term anisotropy is used to describe part of the bidirectional phenomenon wherein objects do not reflect radiation evenly in all directions. Trees, for instance, reflect much more intensely in the back-scatter direction, and correction of BR effects requires careful study of the scene objects and the sensor-scene model (Burnett 1999). Corrections for spectral distortion have been explored for video camera data (Pellikka 1998), digital camera mosaics (Pellikka et al. 1999), Landsat Thematic Mapper (TM) change detection (Tokola et al. 1999) and TM mosaicing (Toivonen et al. 2002). 
+Spectral differences within EO data may be induced by atmospheric distortions, bidirectional (BR) effects, topography (ie. shadowing), vingetting, and within image mosaics through relative changes in solar and sensor positions relative to the imaged surface (Burnett et al. 2001). The term anisotropy is used to describe part of the bidirectional phenomenon wherein objects do not reflect radiation evenly in all directions. Trees, for instance, reflect much more intensely in the back-scatter direction, and correction of BR effects requires careful study of the scene objects and the sensor-scene model (Burnett 1999). Corrections for spectral distortion have been explored for video camera data (Pellikka 1998), digital camera mosaics (Pellikka et al. 1999), Landsat Thematic Mapper (TM) change detection (Tokola et al. 1999) and TM mosaicing (Toivonen et al. 2002).
 
 Conceptual degrading of the signal can also take a variety of forms. An example is contextual differences arrising from the comparion of data collected for different purposes. Vuorela et al. (2002) has demonstrated the difficulties in doing change analysis with diverse data sets that include painted 17th century maps, aerial photographs and digital EO data. The fact that the 17th Century maps were designed for one purpose and the satellite data for another is as important an issue as the technical challenges of registering them for overlay analysis. Kalliola and Syrjänen (1991) provide another example in a comparison between the information available from satellite images and the information available through traditional vegetation maps created in the field. They concluded that the information available through manual interpretation of Landsat TM imagery, especially enhanced  images, was useful for identifying major plant physiognomic categories. However, beyond that, their analysis revealed a gulf between the classification system developed for field mapping and coarse information available from the satellite data. Reconciling these two ways of generalizing reality will require both higher resolution sensors and a re-conceptualization of the vegetation classification system. Jaakkola (1994) explores conceptual error as part of a feasability assessment for the automatic generalization and data quality assessment for the Finnish CORINE land cover program using Landsat imagery. This mismatching issue has been termed <em>conceptual error</em> by Jong (1990).
 
@@ -414,39 +417,39 @@ EO data is distorted in more ways than than is generally acknowledged and thus w
 
 ## 4.3. Disparities Between Landscape Ecology and GI Artifacts
 
-There is a disparity between the sophistication of GI artifacts that have been developed for the study of landscape and the complexity of ecosystems at the landscape level. The complexity of ecosystems can be understood in terms of self-organization and emergence, hierarchy and quasi-equilibria (Section 2.3). As an example, we can examine the natural processes active in a boreal forest system. Biological and physics heuristics provide a framework within which energy flows. The result is an emergent complex of functional units as suggested in Figure 7. The following patch levels can be envisioned: needle, branch, tree, clump, stand, forest, landscape, biome. These functional units can be neatly understood as nested inter-connectedness, as a hierarchy [VI, Figure 3]. 
+There is a disparity between the sophistication of GI artifacts that have been developed for the study of landscape and the complexity of ecosystems at the landscape level. The complexity of ecosystems can be understood in terms of self-organization and emergence, hierarchy and quasi-equilibria (Section 2.3). As an example, we can examine the natural processes active in a boreal forest system. Biological and physics heuristics provide a framework within which energy flows. The result is an emergent complex of functional units as suggested in Figure 7. The following patch levels can be envisioned: needle, branch, tree, clump, stand, forest, landscape, biome. These functional units can be neatly understood as nested inter-connectedness, as a hierarchy [VI, Figure 3].
 
 The natural complexity summarised in Section 2.3 high-lights the importance of boundary dynamics in landscape ecology and in cartography: gradients demarcate the spatial, functional, an temporal differences between structures or energentic and materialistic units in ecological systems (Müller 1997). Boundary types range from the sharp, clearly defined boundaries (ecotones) between more highly modified plant communities and anthropogenically created land-use types at on extreme, to more gradual and diffuse boundaries (ecoclines) between natural and semi-natural plant communities at the other (Kent et al. 1997). It is critical to identify appropriate focal scales and functional units to guide accurate placement of boundaries. Researchers are now beginning to address questions concerning the role of boundary dynamics in fragmented landscapes, specifically the importance of forest edges in influencing the flows of energy, matter and species both within and between landscape elements (Kupfer 1995). Critical delineation of boundries is central to the hierarchical patch structure developed in [VI].
 
-Figure 7.  Differential energy/matter flux in open systems produces gradients that are expressed as emergent organization that from an anthropocentric point of view might be grouped into the following holons: (a) individual trees, (b) stands, (c) forests, and (d) landscape. 
+Figure 7.  Differential energy/matter flux in open systems produces gradients that are expressed as emergent organization that from an anthropocentric point of view might be grouped into the following holons: (a) individual trees, (b) stands, (c) forests, and (d) landscape.
 
-Gridded sample data suffers from a range of problems, including variations in acquisition resolution [III]. Some of these problems can be grouped as data quality issues and addressed, though never dispelled, through data processing steps (Section 4.2). However, issues related to complexity necessitate a re-thinking and re-designing of GI artifacts. Two issues are paramount: ecosystems are dynamic and ecosystems operate through a range of scales. In the following sections I discuss how new GI methods, including spatio-temporal modelling and multi-scale analysis, can be used to address ecological complexity. 
+Gridded sample data suffers from a range of problems, including variations in acquisition resolution [III]. Some of these problems can be grouped as data quality issues and addressed, though never dispelled, through data processing steps (Section 4.2). However, issues related to complexity necessitate a re-thinking and re-designing of GI artifacts. Two issues are paramount: ecosystems are dynamic and ecosystems operate through a range of scales. In the following sections I discuss how new GI methods, including spatio-temporal modelling and multi-scale analysis, can be used to address ecological complexity.
 
 ## 4.4. Optimal methodology varies with study question
 
-### 4.4.1. L-resolution: extending functionality beyond the pixel 
+### 4.4.1. L-resolution: extending functionality beyond the pixel
 
-The demands placed on geo-representation artifacts are increasing. (1) From a societal point of view, the cumulative impacts of human use on the boreal environment is such that the maintainability of some ecosystems is now in question (Hansson 1992). The old forest areas of the Vienansalo border region are a typical example of threatened boreal biodiversity, being of high cultural, economic and conservation value. The contrast between the large areas of near-natural Vienansalo forests alongside the managed forest mosaic of Finland is strikingly apparent in satellite images (IV, Linden et al. 1999, Yaroshenko et al. 2001).  Several other characteristics make Vienansalo typical of other threatened regions: a) spatial and ecological knowledge of the area is sparse or inaccessable, b) the local economy if very depressed, c) the area is biodiversity rich relative to neighboring areas, d) political action is stalled, and e) juristictional conflicts (between Karelia, Russia and Finland) hinder conservation efforts. The Vienansalo border forests are examples of fragile and dynamic ecosystems (Turner, Gardner & O’Niell 1995) and clearly make a good candidate study area for developing GI artifacts. (2) From a technological point of view, the amount of data being compiled about ecosystems and human imapct is growing at an exponential rate. New geo-representation artifacts must be developed which abstract but not over-simplify local and regional landscape components; are relatively inexpensive; and which address the dynamic nature of the conservation problem, by incorporating knowledge of anthropogenic and natural processes. 
+The demands placed on geo-representation artifacts are increasing. (1) From a societal point of view, the cumulative impacts of human use on the boreal environment is such that the maintainability of some ecosystems is now in question (Hansson 1992). The old forest areas of the Vienansalo border region are a typical example of threatened boreal biodiversity, being of high cultural, economic and conservation value. The contrast between the large areas of near-natural Vienansalo forests alongside the managed forest mosaic of Finland is strikingly apparent in satellite images (IV, Linden et al. 1999, Yaroshenko et al. 2001).  Several other characteristics make Vienansalo typical of other threatened regions: a) spatial and ecological knowledge of the area is sparse or inaccessable, b) the local economy if very depressed, c) the area is biodiversity rich relative to neighboring areas, d) political action is stalled, and e) juristictional conflicts (between Karelia, Russia and Finland) hinder conservation efforts. The Vienansalo border forests are examples of fragile and dynamic ecosystems (Turner, Gardner & O’Niell 1995) and clearly make a good candidate study area for developing GI artifacts. (2) From a technological point of view, the amount of data being compiled about ecosystems and human imapct is growing at an exponential rate. New geo-representation artifacts must be developed which abstract but not over-simplify local and regional landscape components; are relatively inexpensive; and which address the dynamic nature of the conservation problem, by incorporating knowledge of anthropogenic and natural processes.
 
 The monitoring and modelling methodology developed in [V, pp. 6] integrates three methods: multi-temporal monitoring, forest parameter estimation and spatio-temporal modelling. Landscape monitoring is the most conventional, and advanced change detection methods are being energetically explored (Heikkonen et al., 1999, Petit & Lambin 2001, Remmel & Perera 2001). The use of the k-nn estimation addresses the pixel problem described in Section 2.4. The resulting forest classification showed its utility as a base layer to input into a SELES modelling suite, providing estimates of forest parameters in both the proposed conservation areas and beyond, and this information was used to assess the economies related to the expected timber production in the protected areas as well as the nature types in them. From the forest classification we were able to note the differences in landscape composition in the Reserve, proposed Park and intervening land: useful information for conservation planning [V, pp. 16].
 
 Finally, dynamic cell-based modelling appears to be an effective tool for exploring alternatives for the management of near-natural boreal forest areas. Not only do the rough landscape statistics show identifiable trends in landscape responses to human impact on forest structure, but spatially explicit modelling is also able to provide predictions in map-form, which is particularly useful as a concrete and intuitive means of communication [V, pp. 16]. The methodology is especially appealing since the satellite imagery required is relatively inexpensive and some of the tools are free (e.g. SELES). Manual interpretation of enhanced satellite images [IV] can be problematic in regions with complex existing land cover. For the Vienansalo area, this type of mapping was justifiable because the change patterns were so spectrally and geometrically distinct from the old forest matrix. In fifty to seventy years, when the models predict a reversal in this landscape pattern [V], more sophisticated change detection tools will be required. One option would be to incorporate some of the segmentation tools used in [VI] and develop an object-based change detection system.
 
-4.4.2. H-resolution: mapping functional patches with hierarchical patch dynamics 
+4.4.2. H-resolution: mapping functional patches with hierarchical patch dynamics
 
-Landscapes are complex systems, which by their very nature necessitate a multiscale or hierarchical approach in their analysis, monitoring, modelling and management (Hay et al. 2001). Defining patches that comprise a landscape is not a trivial task, being a contextual problem. Patches must be defined relative to a focal question or organism. From an ecological perspective patches represent relatively discrete areas (spatial domain) or periods (temporal domain) of relatively homogeneous environmental conditions. Their boundries are distinguished from their surroundings by discontinuities in environmental character states of magnitures that are precieved by, or relevant to, the organism or ecological phenomenon under consideration (Blaschke and Hay 2001). Zones of relatively high flux or gradient [VI, pp. 7] express themselves in EO imagery as pattern, and can best be explored by image processing algorithms that abandon pixel-based classification in favour of segmentation and object-relationship modelling. 
+Landscapes are complex systems, which by their very nature necessitate a multiscale or hierarchical approach in their analysis, monitoring, modelling and management (Hay et al. 2001). Defining patches that comprise a landscape is not a trivial task, being a contextual problem. Patches must be defined relative to a focal question or organism. From an ecological perspective patches represent relatively discrete areas (spatial domain) or periods (temporal domain) of relatively homogeneous environmental conditions. Their boundries are distinguished from their surroundings by discontinuities in environmental character states of magnitures that are precieved by, or relevant to, the organism or ecological phenomenon under consideration (Blaschke and Hay 2001). Zones of relatively high flux or gradient [VI, pp. 7] express themselves in EO imagery as pattern, and can best be explored by image processing algorithms that abandon pixel-based classification in favour of segmentation and object-relationship modelling.
 The merits of a multiscale and segmentation-based methodology [VI, pp. 2] include the recognition that 1) environmental impacts by human activity is driving the need for analysis tools that operate at a range of landscape levels (ie. can be tuned to different focal organisms or species groups), 2) new GI data sources are providing data that is dimensionally dense, potentially allowing for a greater amount of information extraction if traditional pixel-based approaches are replaced or modified to take into account a greater amount of ecosystem theory, and 3) the methodology is theoretically more transparent than its forebears, because of the explicitly defined and retained object relationship model, and more flexible, allowing new datsets to be added and different research and management questions to be addressed by the same database.
- 
+
 # 5. Conclusions
 
 Two data dense geo-representation systems were assembled during the course of this thesis. These multi-temporal, multi-spectra and multi-scale databases, together with their associated tools and methods for visualizing and analysis, form new GI artifacts what I have called information spaces. By exercising the 4D Vienansalo information space, using montiroing (visualisation) and modelling (analysis) tools, we can extract the fragmentation snapshots in [IV] and animated maps [V] of old forest areas. Both the snapshots and animations express the outcome of spatial processes in such a way that scenarios can be easily appreciated and criticized by experts and  non-experts alike. The multi-scale Ruisallo information space provides an example of a novel geo-representation interface which cleaves more closely to the complexity of Nature. These visualisation and analysis tools, and databases, are prototypes of information spaces that will in the near future combine vastly more density in data, visualization and analysis tools with which to address next generation Natural and human needs.
 
 This study provided a critical exploration of the recent evolution of geo-representations, with particular emphasis on systems developed to address landscape ecology questions. The main conclusions of the research are as follows:
 
-1. Mapping artifacts are symbol-based spatial communication systems, manifestations of a synergy between societal need and technology agency.<br><br> 
-2. Data quality issues are central to the criticism of mapping artifacts. <br><br> 
-3. Mapping artifacts evolve, codifying and empowering human understanding of nature.<br><br> 
-4. Mapping artifacts incorporating temporality and modelling are increasingly important tools for the analysis of landscape ecological processes and for the visualisation of alternative land-use scenarios for conservation.<br><br> 
+1. Mapping artifacts are symbol-based spatial communication systems, manifestations of a synergy between societal need and technology agency.<br><br>
+2. Data quality issues are central to the criticism of mapping artifacts. <br><br>
+3. Mapping artifacts evolve, codifying and empowering human understanding of nature.<br><br>
+4. Mapping artifacts incorporating temporality and modelling are increasingly important tools for the analysis of landscape ecological processes and for the visualisation of alternative land-use scenarios for conservation.<br><br>
 5. Ecological complexity can be accessed through hierarchical, object-orientated analysis. The multiscale segmentation approach allows for the exploration of landscape at organism-specific spatial and temporal scales.
 
 # References
@@ -461,7 +464,7 @@ Anger, C., S. Mah & S. Babey (1994). Technological Enhancements to the Compact A
 
 Asner, G.P., C.A. Wessman & J.L. Privette (1997). Unmixing the directional reflectances of AVHRR sub-pixel landcovers. *IEEE Transactions on Geoscience and Remote Sensing* 35, 868-878.
 
-Baatz, M. & A. Schäpe (2000). Multiresolution Segmentation – an optimization approach for high quality multi-scale image segmentation. In: J. Strobl, T. Blaschke, & G. Griesebner (eds.) *Angewandte Geographische Informationsverarbeitung XII*, 12-23. Wichmann-Verlag, Heidelberg. 
+Baatz, M. & A. Schäpe (2000). Multiresolution Segmentation – an optimization approach for high quality multi-scale image segmentation. In: J. Strobl, T. Blaschke, & G. Griesebner (eds.) *Angewandte Geographische Informationsverarbeitung XII*, 12-23. Wichmann-Verlag, Heidelberg.
 
 Baker, W.L. (1989). A review of models of landscape change. *Landscape Ecology* 2, 111-133.
 
@@ -477,13 +480,13 @@ Blaschke, T., S. Lang, E. Lorup, J. Strobl & P. Zeil (2000). Object-oriented ima
 
 Board, C. 1979. Maps as models. In: R.J. Chorley & P. Haggett (eds.). *Models in Geography*, 671-725. Methuen and Co., London.
 
-Bormann, F.H. & G.E. Likens (1979). *Pattern and Process in a Forested Ecosystem*. Springer-Verlag, New York Inc. 253 p. 
+Bormann, F.H. & G.E. Likens (1979). *Pattern and Process in a Forested Ecosystem*. Springer-Verlag, New York Inc. 253 p.
 
 Burnett, C.N. (1999). An exploration of conifer canopy anisotropy: 3D modelling versus airborne imaging spectrometer and multispectral scanner imagery. Unpublished MSc thesis. University of Victoria, Canada, 97p.
 
 Burnett, C. & A. Pekkarinen (unpublished data). Results of a spectral separatation experiment using ITC and crown segments on Ruissalo Island.
 
-Burnett, C.N., M. Wulder, N.M.A. Daley, K.O. Niemann, K. & D.G. Goodenough (1998). Directional variability in 1 m casi imagery: an analysis using semi-variance range and slope shape. *Proceedings, International Geoscience and Remote Sensing Symposium*, Seattle, 6-10 July 1998, 3242-3244. 
+Burnett, C.N., M. Wulder, N.M.A. Daley, K.O. Niemann, K. & D.G. Goodenough (1998). Directional variability in 1 m casi imagery: an analysis using semi-variance range and slope shape. *Proceedings, International Geoscience and Remote Sensing Symposium*, Seattle, 6-10 July 1998, 3242-3244.
 
 Burnett C., N. Vuorela & T. Toivonen (2001). Different connotations of time in landscape research. In: Ü. Mander, A. Prinsmann, & H. Palang (eds.) *Proceedings, IALE Europe*, Stockholm/Tartu June 30-July 6 2001, 101-106. Publicationes Instituti Geographici Universitatis Tartuensis, Tartu.
 
@@ -504,7 +507,7 @@ Dokuchaev, V.V. (1899). *On the theory of natural zones*. Sochineniya (collected
 Fall, A. & J. Fall (2001).  A domain-specific language for models of landscape dynamics. *Journal of Ecological Modelling* 141, 1-18.
 
 Fisher, P. (1997). The pixel: a snare and a delusion. *International Journal of Remote Sensing* 18, 679-685.
-Forman, R.T.T. & M. Godron (1986). Landscape Ecology. Wiley, New York. 
+Forman, R.T.T. & M. Godron (1986). Landscape Ecology. Wiley, New York.
 
 Frank, A.U. (2001). Tiers of ontology and consistency constraints in geographic information systems. *International Journal of GIS* 15, 667-678.
 
@@ -540,11 +543,11 @@ Harvey, D. (1989). *The condition of postmodernity*. Blackell, Oxford.
 
 Hay, G.J., K.O. Niemann & D.G. Goodenough (1997). Spatial thresholds, image-objects and upscaling: a multi-scale evaluation. *Remote Sensing of Environment* 62, 1-19.
 
-Hay, G.J., P. Dube, A. Bouchard & D.J. Marceau (2002). A scale-space primer for exploring and quantifying complex landscapes. *Ecological Modelling* (accepted). 
+Hay, G.J., P. Dube, A. Bouchard & D.J. Marceau (2002). A scale-space primer for exploring and quantifying complex landscapes. *Ecological Modelling* (accepted).
 
 Heikkonen, J., J. Varjo & A. Vehtari (1999). Forest Change Detection via Landsat TM Difference Features. *Proceedings, Scandinavian Conference on Image Analysis* 11, 157-164.
 
-Hill, D.A. & D.G. Leckie, eds. (1999). *Proceedings of the International Forum on Automated Interpretation of High Spatial Resolution Digital Imagery for Forestry*, Victoria, British Columbia, Canada, February 10-12, 1998. Natural Resources Canada, Canadian Forest Service, Victoria, B.C., Canada. 
+Hill, D.A. & D.G. Leckie, eds. (1999). *Proceedings of the International Forum on Automated Interpretation of High Spatial Resolution Digital Imagery for Forestry*, Victoria, British Columbia, Canada, February 10-12, 1998. Natural Resources Canada, Canadian Forest Service, Victoria, B.C., Canada.
 
 Holling, C.S. (1992). Cross-scale morphology, geometry, and dynamics of ecosystems. *Ecological Monographs* 62, 447-502.
 
@@ -570,7 +573,7 @@ Lindholm, T., R. Heikkilä & M. Heikkilä, eds. (1997). Ecosystems, fauna and fl
 
 Lobo, A. (1997). Image segmentation and discriminant analysis for the identification of land cover units in ecology. *IEEE Transactions on Geoscience and Remote Sensing* 35, 1136–1145.
 
-Luontoliitto (1997). Green Belt from a Finnish perspective: Position of Finnish environmental organizations. http://www.luontoliitto.fi/forest/greenbelt/finnishperspective.html.
+Luontoliitto (1997). Green Belt from a Finnish perspective: Position of Finnish environmental organizations. <http://www.luontoliitto.fi/forest/greenbelt/finnishperspective.html>.
 
 Luoto, M. (2000). *Spatial analysis of landscape ecological characteristics of five agricultural areas in Finland by GIS*. Fennia 178, 15-54.
 
@@ -578,13 +581,13 @@ MacEachren, A. M. (1995). *How maps work: representation, visualisation and desi
 
 Marr, D., & E. C. Hildreth (1980). Theory of edge detec-sensed images. *Proceedings, The Royal Society*, 187-217. London, England.
 
-Marceau, D., P.J. Howarth, J.M.M. Dubois, D.J. Gratton (1990). Evaluation of the gray-level co-occurrence matrix (GLCM) method for land-cover classification using SPOT imagery. *IEEE Transactions of Geoscience and Remote Sensing* 28, 513-519. 
+Marceau, D., P.J. Howarth, J.M.M. Dubois, D.J. Gratton (1990). Evaluation of the gray-level co-occurrence matrix (GLCM) method for land-cover classification using SPOT imagery. *IEEE Transactions of Geoscience and Remote Sensing* 28, 513-519.
 
 Marceau, D. (1999). The scale issue in the social and natural sciences. *Canadian Journal of Remote Sensing* 25, 347-356.
 
 Massey, D. (1999). Space-time, ‘science’ and the relationship between physical geography and human geography. *Trans. Inst. British Geographers* 24, 261-276.
 
-McGraw, J.B., T.A. Warner, T. Key & W. Lamar (1998). Advances in high resolution remote sensing for forest ecological studies. *Trends in Ecology and Evolution* 13, 300-301. 
+McGraw, J.B., T.A. Warner, T. Key & W. Lamar (1998). Advances in high resolution remote sensing for forest ecological studies. *Trends in Ecology and Evolution* 13, 300-301.
 
 Narendra, P. & M. Goldberg (1980). Image segmentation with directed trees. *IEEE Transactions on Pattern Analysis and Machine Intelligency*. Pami-2, 185-191.
 
@@ -602,13 +605,13 @@ Pelllikka, P. (1998). Development of correction chain for multispectral airborne
 
 Pellikka, P., D.J. King & S.G. Leblanc (1999). Quantification and removal of bidirectional effects in airborne color infrared imagery using a multi-look approach. *Proceedings, 17th Biennial Workshop on Color Aerial Photography and Videography in Resource Management*, Reno, USA, 5-7 May 1999, 13-24.
 
-Petit, C.C. & E.F. Lambin (2001). Integration of multi-source remote sensing data for land cover change detection. *International Journal of Geographical Information Science* 15, 785-803. 
+Petit, C.C. & E.F. Lambin (2001). Integration of multi-source remote sensing data for land cover change detection. *International Journal of Geographical Information Science* 15, 785-803.
 
 Pickles, J. (1999b). Cartography, digital transitions and questions of history. *Proceedings of the International Cartographic Association Annual Conference*, Ottawa, Canada, August 1999. CD.
 
 Raper, J. (2000). *Multidimensional Geographic Infromation Science*, Taylor & Francis, London. 300p.
 
-Remmel, T. K. & A.H. Perera (2001). Fire mapping in a northern boreal forest: assessing AVHRR/NDVI methods of change detection. *Forest Ecology and Management* 152, 119-129. 
+Remmel, T. K. & A.H. Perera (2001). Fire mapping in a northern boreal forest: assessing AVHRR/NDVI methods of change detection. *Forest Ecology and Management* 152, 119-129.
 
 Robinson, A.H. (1952). *The Look of Maps*. University of Wisconsin Press, Madison.
 
@@ -649,6 +652,3 @@ Wu, J. & O.L. Loucks (1995). From the balance-of-nature to hierarchical patch dy
 Wulder, M., K.O. Niemann, & D.G. Goodenough (2000). Local maximum filtering for extraction of tree locations and basal area from high spatial resolution imagery. *Remote Sensing of Environment* 73, 103-114.
 
 Yaroshenko, A.Y., P.V. Potapov & S.A. Turubanova (2001). *The last intact forest landscapes of northern European Russia*. Greenpeace, Moscow, Russia. 75p.
-
-
-

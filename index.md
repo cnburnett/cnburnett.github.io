@@ -16,7 +16,7 @@ Part CRM, part Grants Management tool. Bringing hundreds of past and current cle
 **Employer:** BC Ministry of Energy, Mines and Low Carbon Innovation; BC Ministry of Indigenous Relations & Reconciliation<br/>
 **Code:** Microsoft Dynamics 365, Microsoft Portal, custom code.<br/>
 **Tasks:** Project management; User experience (UX); Vendor management; Business analysis; Database, views and forms configuration; User acceptance testing.<br/>
-**Public-facing:** You can view a WordPress site that pulls funding data from CEED here: [BC Community Climate Funding Guide](https://communityclimatefunding.gov.bc.ca/)<br/>
+**Public-facing:** You can view a WordPress site that presents funding data for communities from CEED here: [BC Community Climate Funding Guide](https://communityclimatefunding.gov.bc.ca/)<br/>
 
 ### Web Applications - in industry
 
